@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, i'm Ammar Rasydan
 
 <!--
 **ammarrasydan/ammarrasydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-### :fire: My Stats :
 
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=dracula)
 
