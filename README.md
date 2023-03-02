@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=gruvbox)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=tokyonight)
