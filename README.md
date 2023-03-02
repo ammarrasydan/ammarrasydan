@@ -1,6 +1,6 @@
 Hi, i'm Ammar Rasydan 
 
-I'm a Programming student whos passionate in coding
+I'm a Programming student who's passionate in coding
 
 <!--
 **ammarrasydan/ammarrasydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
