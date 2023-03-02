@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-(https://github-readme-stats.vercel.app/api?username=ammarrasydan)](https://github.com/ammarrasydan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=radical)
