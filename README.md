@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarrasydan&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarrasydan&layout=compact&langs_count=6&hide=html,css&show_icons=true&theme=dracula)](https://github.com/ammarrasydan/github-readme-stats)
 
-
+https://github-readme-stats.vercel.app/api?username=[ammarrasydan]
