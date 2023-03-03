@@ -1,6 +1,12 @@
 Hi, i'm Ammar Rasydan 
 
-I'm a Programming student who's passionate in coding
+Motivated designer and developer with experience creating custom websites through wordpress platform. I am seeking a role which allows me to continue learning and perfecting my skills as I provide high-quality work, and encourages me to flourish as a web developer.
+
+<b>About me</b>
+
+• :mortar_board: Diploma in Programming at Politeknik Tuanku Syed Sirajuddin 
+ 
+• :briefcase: Experience in designing and develop website
 
 <!--
 **ammarrasydan/ammarrasydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
